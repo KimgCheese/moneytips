@@ -1,0 +1,168 @@
+ .u-section-1 {
+  min-height: 318px;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1032px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1018px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 2px 52px 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 48px;
+  width: 48px;
+  background-image: none;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 78px 1px 0 15px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 28px 9px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  margin: 54px 1px 0 8px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 1018px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 21px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 392px;
+  height: 262px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  height: 362px;
+  width: 582px;
+  margin: 77px 0 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 203px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 839px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    background-position: 50% 50%;
+    min-height: 839px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 261px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 303px;
+    width: 486px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 66px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 77px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 643px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 372px;
+    height: 248px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 232px;
+    width: 372px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 933px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 587px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 227px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 212px;
+    width: 340px;
+  }
+}
